@@ -1,1 +1,1 @@
-quarto preview "c:/Users/GramVite/Documents/мои фигуры/GraFiS_Manual/formulas/html.qmd"# Редактирование исходного кода разметки формул
+# Редактирование исходного кода разметки формул
